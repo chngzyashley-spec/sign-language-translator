@@ -1,0 +1,6 @@
+opencv-python
+mediapipe==0.10.8
+numpy<2
+pandas
+scikit-learn
+tensorflow==2.15.0
